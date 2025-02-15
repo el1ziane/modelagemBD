@@ -13,4 +13,5 @@ Este repositório contém o **Diagrama Entidade-Relacionamento (DER)** de um sis
 - **Estoque**: Controla a quantidade e localização dos produtos armazenados.  
 
 ## 📁 Arquivo do DER  
-O diagrama foi criado no **draw.io** e pode ser visualizado no arquivo [`e-commerce.drawio.png`](e-commerce.drawio.png).  
+O diagrama foi criado no **draw.io** e pode ser visualizado abaixo: 
+![Diagrama ER](e-commerce.drawio.png)
